@@ -1,5 +1,3 @@
-## Hi there 👋
-
 [![roadmap.sh](https://roadmap.sh/card/tall/655228f268ca60261322626b?variant=dark)](https://roadmap.sh)
 
 <!--
