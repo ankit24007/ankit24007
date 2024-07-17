@@ -1,4 +1,4 @@
-[![roadmap.sh](https://roadmap.sh/card/tall/655228f268ca60261322626b?variant=dark)](https://roadmap.sh)
+Hi there 👋
 
 <!--
 **ankit24007/ankit24007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
